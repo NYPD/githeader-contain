@@ -1,0 +1,8 @@
+header.Header {
+  padding-left: calc(50% - 490px);
+  padding-right: calc(50% - 490px);
+}
+
+header.Header > .d-flex {
+  padding: 0 !important;
+}
