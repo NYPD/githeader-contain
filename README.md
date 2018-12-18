@@ -13,6 +13,6 @@ This CSS extension can break at anytime GitHub decided to change the markup, per
 
 
 ### Before:
-![after](./images/before.png)
+![after](./extension_resources/google/before.png)
 ### After:
-![after](./images/after.png)
+![after](./extension_resources/google/after.png)
