@@ -1,6 +1,3 @@
-# Update 2018-1-17
-Github now has switched their layout to full-width so this extension is useless.
-
 # githeader-contain
 Ez pz GitHub header CSS to keep everything nice and central.
 
@@ -14,8 +11,10 @@ wonky user experience and tons of unneeded whitespace. The rest of the site is c
 ## Keep in mind
 This CSS extension can break at anytime GitHub decided to change the markup, perhaps they are gonna do a big site re-work.
 
-
 ### Before:
 ![after](./extension_resources/google/before.png)
 ### After:
 ![after](./extension_resources/google/after.png)
+
+## Update 2018-1-17
+Github now has switched their dashboard layout to full-width so this extension will not work on the dashboard anymore
