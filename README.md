@@ -1,3 +1,6 @@
+# Update 2018-1-17
+Github now has switched their layout to full-width so this extension is useless.
+
 # githeader-contain
 Ez pz GitHub header CSS to keep everything nice and central.
 
