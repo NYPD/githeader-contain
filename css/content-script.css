@@ -1,8 +1,8 @@
-.logged-in:not(.full-width) header.Header {
+.logged-in:not(.full-width) header.Header-old {
   padding-left: calc(50% - 490px);
   padding-right: calc(50% - 490px);
 }
 
-.logged-in:not(.full-width) header.Header > .d-flex {
+.logged-in:not(.full-width) header.Header-old > .d-flex {
   padding: 0 !important;
 }
