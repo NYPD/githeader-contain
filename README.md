@@ -9,7 +9,7 @@ Around 10/22/2018 (2018-10-22 for non EE.UU friends) GitHub decided to make thei
 wonky user experience and tons of unneeded whitespace. The rest of the site is centralized, why change the header?
 
 ## Keep in mind
-This CSS extension can break at anytime GitHub decided to change the markup, perhaps they are gonna do a big site re-work.
+This CSS extension can break at anytime GitHub decides to change their website markup. Perhaps they are gonna make a full page app for their entire site.
 
 ### Before:
 ![after](./extension_resources/google/before.png)
