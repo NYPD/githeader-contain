@@ -1,7 +1,7 @@
 /*v0.0.3*/
 .logged-in:not(.full-width) header.Header-old {
-  padding-left: calc(50% - 490px);
-  padding-right: calc(50% - 490px);
+  padding-left: calc(50% - 490px) !important;
+  padding-right: calc(50% - 490px) !important;
 }
 
 .logged-in:not(.full-width) header.Header-old > .d-flex {
@@ -9,6 +9,6 @@
 }
 /*v0.0.4*/
 .logged-in:not(.full-width) header.Header {
-  padding-left: calc(50% - 490px);
-  padding-right: calc(50% - 490px);
+  padding-left: calc(50% - 490px) !important;
+  padding-right: calc(50% - 490px) !important;
 }
