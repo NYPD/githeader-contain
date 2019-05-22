@@ -14,8 +14,8 @@
   padding-right: calc(50% - 490px) !important;
 }
 
-/*v0.0.6*/
+/*v0.0.6 - v0.0.7*/
 .logged-in.page-profile:not(.full-width) header.Header {
-  padding-left: calc(50% - 600px) !important;
-  padding-right: calc(50% - 600px) !important;
+  padding-left: calc(50% - 624px) !important;
+  padding-right: calc(50% - 624px) !important;
 }
