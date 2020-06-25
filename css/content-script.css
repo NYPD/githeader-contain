@@ -1,5 +1,5 @@
-/*v0.0.3*/
-.logged-in:not(.full-width) header.Header-old {
+/*v0.0.3, v0.0.9*/
+.logged-in:not(.full-width) header.Header {
   padding-left: calc(50% - 490px) !important;
   padding-right: calc(50% - 490px) !important;
 }
@@ -10,12 +10,18 @@
 
 /*v0.0.4, v0.0.8*/
 .logged-in:not(.full-width):not(.notifications-v2) header.Header {
-  padding-left: calc(50% - 490px) !important;
-  padding-right: calc(50% - 490px) !important;
+  padding-left: calc(50% - 608px) !important;
+  padding-right: calc(50% - 608px) !important;
 }
 
 /*v0.0.6, v0.0.7*/
 .logged-in.page-profile:not(.full-width) header.Header {
   padding-left: calc(50% - 624px) !important;
   padding-right: calc(50% - 624px) !important;
+}
+
+/*v0.0.9*/
+.pagehead.repohead {
+  padding-left: calc(50% - 640px) !important;
+  padding-right: calc(50% - 640px) !important;
 }
