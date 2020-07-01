@@ -20,8 +20,8 @@
   padding-right: calc(50% - 624px) !important;
 }
 
-/*v0.0.9*/
-.pagehead.repohead {
+/*v0.0.9, v0.0.11*/
+body:not(.full-width) .pagehead.repohead {
   padding-left: calc(50% - 640px) !important;
   padding-right: calc(50% - 640px) !important;
 }
