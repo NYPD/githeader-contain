@@ -25,3 +25,11 @@
   padding-left: calc(50% - 640px) !important;
   padding-right: calc(50% - 640px) !important;
 }
+
+/* v0.0.10 */
+.pagehead.repohead .octicon-kebab-horizontal {
+  visibility: hidden;
+}
+.pagehead.repohead .UnderlineNav-body > li > a {
+  visibility: visible !important;
+}

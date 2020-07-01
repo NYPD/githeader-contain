@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "githeader-contain",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Almost useless extension that forces the new Github header to stay in the center of the screen like the rest of the site",
 
   "content_scripts": [{
