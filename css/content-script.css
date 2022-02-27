@@ -20,8 +20,9 @@
   padding-right: calc(50% - 624px) !important;
 }
 
-/*v0.0.9, v0.0.11*/
-body:not(.full-width) .pagehead.repohead {
+/*v0.0.9, v0.0.11, V0.0.12*/
+body:not(.full-width) .pagehead.repohead,
+#repository-container-header {
   padding-left: calc(50% - 640px) !important;
   padding-right: calc(50% - 640px) !important;
 }
@@ -32,4 +33,15 @@ body:not(.full-width) .pagehead.repohead {
 }
 .pagehead.repohead .UnderlineNav-body > li > a {
   visibility: visible !important;
+}
+
+/*V0.0.12*/
+.logged-in:not(.full-width) .application-main {
+    padding-left: calc(50% - 640px) !important;
+    padding-right: calc(50% - 640px) !important;
+}
+
+.logged-in:not(.full-width) .application-main > div {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
 }
